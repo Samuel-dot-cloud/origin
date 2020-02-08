@@ -7,7 +7,7 @@
 }
 
 .img {
-    float: left;
+    float: right;
     padding: 30%;
     margin: 30%;
     border: 30%;
@@ -16,7 +16,7 @@
 
 .me {
     float: inline-start;
-    color: red;
+    color: brown;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: larger;
     column-gap: initial;
